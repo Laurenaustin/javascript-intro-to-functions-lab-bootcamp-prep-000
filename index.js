@@ -17,6 +17,3 @@ function logWhisper(uppercase){
 function sayHiToGrandma(love){
     return `I love you, too.`
 }
-function sayHiToGrandma.toLowerCase(){
-  return `I can't hear you!`
-}
